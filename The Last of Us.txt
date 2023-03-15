@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-name="The Last of Us S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg" group-title="Latest Releases",The Last of Us S01E01
+http://102.129.200.202:80/series/paullennon@man2man.xyz/gHZxBH6DZE/950594.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg" group-title="Latest Releases",The Last of Us S01E02
+http://102.129.200.202:80/series/paullennon@man2man.xyz/gHZxBH6DZE/1006130.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg" group-title="Latest Releases",The Last of Us S01E03
+http://102.129.200.202:80/series/paullennon@man2man.xyz/gHZxBH6DZE/949963.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/szQ95jxKNrYWnCAJx8VC51iws5d.jpg" group-title="Latest Releases",The Last of Us S01E04
+http://102.129.200.202:80/series/paullennon@man2man.xyz/gHZxBH6DZE/1006132.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/cX2z8FO9lKqZmBBTVF2G2favQRE.jpg" group-title="Latest Releases",The Last of Us S01E05
+http://102.129.200.202:80/series/paullennon@man2man.xyz/gHZxBH6DZE/988847.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg" group-title="Latest Releases",The Last of Us S01E06
+http://102.129.200.202:80/series/paullennon@man2man.xyz/gHZxBH6DZE/950589.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/grrTkpBGcQSgu78iResLgbJlvUE.jpg" group-title="Latest Releases",The Last of Us S01E07
+http://102.129.200.202:80/series/paullennon@man2man.xyz/gHZxBH6DZE/949964.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/6DHQgB85iKMcabcKvC9HSDH3UDo.jpg" group-title="Latest Releases",The Last of Us S01E08
+http://102.129.200.202:80/series/paullennon@man2man.xyz/gHZxBH6DZE/991016.mkv
+#EXTINF:-1 tvg-name="The Last of Us S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/qFouIBgN3Jgba7LnuRmkTAohh07.jpg" group-title="Latest Releases",The Last of Us S01E09
